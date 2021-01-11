@@ -1,0 +1,40 @@
+* {
+	--background-1: #3d486c;
+}
+
+body {
+	background: var(--background-1)
+}
+
+.main {
+	height: 100%;
+	background: var(--background-2)!important;
+}
+
+
+.header {
+	filter: brightness(110%);
+	margin-top: 10px;
+	padding: 1rem 1rem;
+	border: 1px solid #fff;
+	border-radius: 10px;
+}
+
+.world-stats {
+	border-radius: 20px;
+}
+
+#world-stats-table {
+	width: 100%!important;
+	border-radius: 20px;
+	max-height: 70vh;
+	overflow-y: scroll;
+}
+
+tr, td {
+	padding: 10px;
+}
+
+.text-success {
+	color: #65DD9B!important;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TrackTQ",
+  "description": "A COVID-19 Tracker built with HTML, CSS, and JS",
+  "repository": "https://github.com/MLH/TalhaQuddoos/covid-tracker",
+  "logo": "https://avatars1.githubusercontent.com/u/5752708?s=100",
+  "keywords": ["nodejs", "javascript"]
+}
